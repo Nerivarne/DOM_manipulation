@@ -1,0 +1,19 @@
+main {
+    font-family: 'Fira Sans Condensed', sans-serif;
+  }
+  h1 {
+    color: red;
+  }
+  h2 {
+    color: purple;
+  }
+  ol {
+    list-style-type: upper-roman;
+  }
+  .pink {
+    color: #ff1ac6;
+    text-decoration: underline;  
+  }
+  .black {
+    text-decoration: underline;
+  }
